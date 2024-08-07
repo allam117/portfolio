@@ -586,7 +586,7 @@ width: px;
 }
 .portfolio .container .row .portfolio-item .portfolio-item-inner {
   transition: all 1s ease;
-  border-radius: 15px;
+  border-radius: 14px;
 }
 .portfolio .container .row .portfolio-item .portfolio-item-inner:hover {
   transform: translatey(-1.5em);
